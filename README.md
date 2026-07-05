@@ -25,9 +25,8 @@ Building intelligent data-driven applications with Python, Machine Learning and 
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zain-Khan-AI" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zain-Khan-AI&theme=onedark" />
 </p>
-
 ---
 
 # 🧠 About Me
