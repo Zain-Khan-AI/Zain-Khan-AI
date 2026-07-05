@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋 I'm Zain
 
 ### 🚀 AI & Data Science | Machine Leaning | Deep Leaning Enthusiast 
