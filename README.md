@@ -7,16 +7,16 @@
 Building intelligent data-driven applications with Python, Machine Learning and Deep Learning.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/m-zain-khan-2555913a9//" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/Zain-Khan-AI" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Zain-Khan-AI&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
