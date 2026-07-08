@@ -7,7 +7,7 @@
 Building intelligent data-driven applications with Python, Machine Learning and Deep Learning.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/m-zain-khan-2555913a9//" target="_blank">
+<a href="https://www.linkedin.com/in/m-zain-khan-2555913a9/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
